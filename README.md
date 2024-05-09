@@ -9,7 +9,7 @@ I developed two websites:
 
 -Using WordPress: https://exploradjerba.com/
 
--Utilizing HTML, CSS, JavaScript, and React: https://exploradjerba.com/DST/
+-Using HTML, CSS, JavaScript, and React: https://exploradjerba.com/DST/
 
 I also developed three desktop applications:
 
